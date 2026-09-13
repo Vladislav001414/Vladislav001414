@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Vladislav 👋
 
-<!--
-**Vladislav001414/Vladislav001414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android Developer** | Kotlin & Python
 
-Here are some ideas to get you started:
+Currently studying Android development and looking for my first role as an Android Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech stack
+- Kotlin, Android Studio
+- Python (via Chaquopy)
+- Jetpack: ViewModel, Coroutines, Flow / StateFlow / SharedFlow
+- MVVM architecture, Repository pattern, sealed interfaces
+- Foreground Services, Notifications
+- Media handling (gallery access, loading/opening media)
+- Local database storage (Room)
+- File processing with FFmpeg
+
+#### Currently learning
+- Git & GitHub workflows
+- Retrofit, REST APIs
+
+#### Featured project
+Built an Android media-downloading app (YouTube, TikTok, Instagram, SoundCloud) — applied MVVM architecture, coroutines, Flow, and a Foreground Service to handle background downloads and state updates.
+
+#### 📫 Contact
+- Email: vlad3579los@gmail.com
+- Telegram: [@vladislav002007](https://t.me/vladislav002007)
+- LinkedIn: [vladislav-los](https://www.linkedin.com/in/vladislav-los-15bb1a331/)
+
+🟢 **Open to Android Developer opportunities**

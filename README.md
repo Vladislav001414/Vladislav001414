@@ -24,6 +24,5 @@ Built an Android media-downloading app (YouTube, TikTok, Instagram, SoundCloud) 
 #### 📫 Contact
 - Email: vlad3579los@gmail.com
 - Telegram: [@vladislav002007](https://t.me/vladislav002007)
-- LinkedIn: [vladislav-los](https://www.linkedin.com/in/vladislav-los-15bb1a331/)
 
 🟢 **Open to Android Developer opportunities**

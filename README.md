@@ -18,11 +18,11 @@ Currently studying Android development and looking for my first role as an Andro
 - Git & GitHub workflows
 
 #### Project
-Media Downloader (Android, Kotlin): an app for downloading media from YouTube, TikTok, Instagram and SoundCloud. 
+- Media Downloader (Android, Kotlin): an app for downloading media from YouTube, TikTok, Instagram and SoundCloud. 
 Built with MVVM architecture, Coroutines and Flow, and a Foreground Service for background downloads and state updates. 
 Private repository, access available on request.
 
-QR Code Scanner (Android, Kotlin): a QR code scanning app built with MVVM and integrated with a REST API using OkHttp and JSON parsing. 
+- QR Code Scanner (Android, Kotlin): a QR code scanning app built with MVVM and integrated with a REST API using OkHttp and JSON parsing. 
 Source code and build instructions: https://github.com/Vladislav001414/QrCodeScanner
 
 #### 📫 Contact

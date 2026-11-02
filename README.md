@@ -14,7 +14,7 @@ Currently studying Android development and looking for my first role as an Andro
 - Media handling (gallery access, loading/opening media)
 - Local database storage (Room)
 - File processing with FFmpeg
-- Integration API with REST API, OKHTTP, JSON
+- Integration API with REST API using OkHttp and JSON
 - Git & GitHub workflows
 
 #### Project
